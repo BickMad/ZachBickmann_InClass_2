@@ -1,0 +1,56 @@
+.title{
+    text-align: center;
+    margin: 25px;
+    border: 30px;
+    padding: 5px;
+}
+
+.sub{
+    text-align: center;
+    margin: 25px;
+    border: 30px;
+    padding: 5px;
+}
+
+
+
+.imgCont{
+    justify-content: space-around;
+    display: flex;
+    margin: 30px;
+    position: relative;
+}
+
+
+
+.imgCont2{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+
+.imgCont2 img{
+    display: none;
+}
+
+
+
+
+button{
+    display: block;
+    margin: 10px auto;
+    background-color: yellow;
+    color: black;
+    font-size: 30px;
+}
+
+.hideB{
+    display: none;
+}
+
+.ABC{
+    position: absolute;
+    top: 600px;
+    left: 50%;
+    margin: 20px;
+}
